@@ -1,7 +1,7 @@
 <!-- ================= HEADER IMAGE ================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/header.jpg" alt="Yash Kumar | Python Developer"/>
+  <img src="https://raw.githubusercontent.com/Yash-Kumar-githb/Yash-Kumar/refs/heads/main/Yash_profile_image.jpeg" alt="Yash Kumar | Python Developer"/>
 </p>
 
 <h1 align="center">Hi Coders👋, I'm Yash Kumar👩‍💻</h1>
