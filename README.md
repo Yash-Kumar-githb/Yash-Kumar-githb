@@ -87,8 +87,10 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yash-Kumar-githb/Yash-Kumar-githb/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Yash-Kumar-githb/Yash-Kumar-githb/blob/output/github-snake.svg" />
 </p>
+
+
 
 ---
 
