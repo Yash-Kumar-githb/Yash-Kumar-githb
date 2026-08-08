@@ -113,7 +113,6 @@
         />
     </a>
 
-```
 <a href="https://linkedin.com/in/kumaryash5">
     <img
       alt="linkedin"
@@ -131,7 +130,6 @@
       src="https://img.icons8.com/clouds/100/000000/gmail.png"
     />
 </a>
-```
 
 </p>
 
