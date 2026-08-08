@@ -103,11 +103,11 @@
         <img alt="github" width="10%" style="padding:5px"
              src="https://img.icons8.com/clouds/100/000000/github.png" />
     </a>
-    <a href="https://www.linkedin.com/in/yash-kumar-5a0077206/">
+    <a href="www.linkedin.com/in/kumaryash5">
         <img alt="linkedin" width="10%" style="padding:5px"
              src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
     </a>
-    <a href="mailto:yashkumar.in1@gmail.com">
+    <a href="mailto:yashkumar.dev05@gmail.com">
         <img alt="gmail" width="10%" style="padding:5px"
              src="https://img.icons8.com/clouds/100/000000/gmail.png" />
     </a>
