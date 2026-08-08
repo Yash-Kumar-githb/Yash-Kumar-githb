@@ -107,7 +107,7 @@
         <img alt="linkedin" width="10%" style="padding:5px"
              src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
     </a>
-    <a href="mailto: yashkumar.dev05@gmail.com">
+    <a href="mailto:yashkumar.dev05@gmail.com">
         <img alt="gmail" width="10%" style="padding:5px"
              src="https://img.icons8.com/clouds/100/000000/gmail.png" />
     </a>
