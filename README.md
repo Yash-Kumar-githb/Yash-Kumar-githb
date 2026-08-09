@@ -18,20 +18,22 @@
 </p>
 
 ---
-
-<!-- ================= ABOUT ME ================= -->
-
+<!-- Short professional introduction -->
 ## 🚀 About Me
 
-🎯 Aspiring **Backend & Data Science Engineer**
+🎯 Aspiring **Software Engineer | AI/ML Engineer | GenAI Engineer**
 
-🐍 Strong focus on **Python Development**
+🐍 Building applications with **Python, FastAPI & REST APIs**
 
-🧠 Building AI systems using **RAG + LLMs**
+🤖 Exploring **Generative AI, RAG, LLMs & AI-powered applications**
 
-⚙️ Passionate about scalable backend architectures
+📊 Hands-on experience in **Machine Learning & Deep Learning**
 
-📚 Constantly learning System Design & Cloud Deployment
+☁️ **AWS Certified Cloud Practitioner** with knowledge of AWS cloud services
+
+🧠 Strong foundation in **Data Structures & Algorithms and OOP**
+
+📚 Continuously learning **System Design, Cloud & AI Engineering**
 
 <p align="center">
   <img
@@ -41,49 +43,121 @@
   >
 </p>
 
----
+<!-- ========================================================= -->
+<!-- 🛠️ TECHNICAL SKILLS                                      -->
+<!-- ========================================================= -->
 
-<!-- ================= TECH STACK ================= -->
+## 🛠️ Tech Stack
 
-## 🛠 Tech Stack
-
+<!-- Programming languages -->
 ### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+🐍 Python  
+🗄️ SQL
 
-### ⚙️ Backend
+<!-- Backend development technologies -->
+### ⚙️ Backend & Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge\&logo=api\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+⚡ FastAPI  
+🔗 REST APIs  
+📦 Pydantic  
+🐧 Linux  
+🧪 Swagger / API Documentation
 
-### 📊 Data Science & AI
+<!-- Machine Learning technologies -->
+### 📊 Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge)
+📈 Scikit-learn  
+🐼 Pandas  
+🔢 NumPy  
+📊 Matplotlib  
+🤖 XGBoost  
+🌲 Random Forest  
+🧠 SVM, KNN, Naive Bayes  
+🔬 Feature Engineering & PCA
+
+<!-- Deep Learning technologies -->
+### 🧠 Deep Learning
+
+🔥 PyTorch  
+🧠 CNN  
+🔗 ANN
+
+<!-- Generative AI technologies -->
+### 🤖 Generative AI
+
+🔍 RAG (Retrieval-Augmented Generation)  
+✨ Google Gemini  
+🧬 Embeddings  
+🔎 Qdrant  
+🦜 LangChain
+
+<!-- Cloud and database technologies -->
+### ☁️ Cloud & Databases
+
+☁️ AWS — EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch, Auto Scaling, Bedrock  
+🗄️ MySQL
+
+<!-- Development tools -->
+### 🧰 Tools
+
+🐙 Git & GitHub  
+📓 Jupyter Notebook  
+☁️ Google Colab  
+🧪 MLflow  
+💻 VS Code  
+🐍 Anaconda  
+🌐 Streamlit
 
 ---
+
+<!-- ========================================================= -->
+<!-- 🚀 PROJECTS                                               -->
+<!-- ========================================================= -->
 
 ## 🚀 Featured Projects
 
-🔹 **Intelligent Document QA System (RAG)**
+<!-- Project 1: GenAI / RAG project -->
+### 🤖 DocuMind — RAG-Powered AI PDF Assistant
 
-🔹 **House Price Prediction (13 ML Models)**
+<!-- Project 2: Machine Learning project -->
+### 🏠 House Price Prediction & Model Comparison
 
-🔹 **Loan Approval Prediction System**
-
-🔹 **FastAPI Task Management API**
+<!-- Project 3: Deep Learning project -->
+### 😊 Emotion Detection & Music Recommendation
 
 ---
 
-<!-- ================= GITHUB ANALYTICS AND CONTRIBUTION SNAKE ================= -->
+<!-- ========================================================= -->
+<!-- 🏆 ACHIEVEMENTS & CERTIFICATIONS                          -->
+<!-- ========================================================= -->
+
+## 🏆 Achievements & Certifications
+
+🏅 **AWS Certified Cloud Practitioner (CLF-C02)**
+
+🎓 **FastAPI with GenAI – From Basic to AI | Udemy**
+
+🤖 **IBM SkillsBuild – Artificial Intelligence Fundamentals**
+
+💻 Solved **150+ Data Structures & Algorithms problems** on LeetCode
+
+🔥 Earned the **LeetCode 100 Days Badge**
+
+---
+
+<!-- ========================================================= -->
+<!-- 📊 GITHUB STATISTICS                                      -->
+<!-- ========================================================= -->
 
 ## 📊 GitHub Analytics
+
+<!--
+GitHub Readme Stats automatically generates
+your GitHub statistics using your username.
+
+Replace "Yash-Kumar-githb" if your GitHub username changes.
+-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Kumar-githb&theme=tokyonight" />
@@ -91,7 +165,19 @@
 
 ---
 
+<!-- ========================================================= -->
+<!-- 🐍 CONTRIBUTION SNAKE                                     -->
+<!-- ========================================================= -->
+
 ## 🐍 Contribution Snake
+
+<!--
+This displays the GitHub contribution graph as a snake animation.
+
+IMPORTANT:
+This will only work after you configure the
+GitHub Actions workflow that generates the SVG file.
+-->
 
 <p align="center">
   <img src="https://github.com/Yash-Kumar-githb/Yash-Kumar-githb/blob/output/github-snake.svg" />
@@ -99,10 +185,15 @@
 
 ---
 
+<!-- ========================================================= -->
+<!-- 📬 CONTACT / SOCIAL LINKS                                 -->
+<!-- ========================================================= -->
+
 <!-- ================= CONNECT WITH ME ================= -->
 
 ## 📬 Connect With Me
 
+<!-- FOR GIT HUB LINK -->
 <p align="center">
     <a href="https://github.com/Yash-Kumar-githb">
         <img
@@ -112,7 +203,7 @@
           src="https://img.icons8.com/clouds/100/000000/github.png"
         />
     </a>
-
+<!-- FOR LINKDIN LINK -->
 <a href="https://linkedin.com/in/kumaryash5">
     <img
       alt="linkedin"
@@ -121,7 +212,7 @@
       src="https://img.icons8.com/clouds/100/000000/linkedin.png"
     />
 </a>
-
+<!-- FOR EMAIL LINK -->
 <a href="mailto:yashkumar.dev05@gmail.com">
     <img
       alt="gmail"
@@ -133,6 +224,5 @@
 
 </p>
 
----
-
+<!-- GitHub profile footer -->
 ⭐️ From [Yash Kumar](https://github.com/Yash-Kumar-githb)
