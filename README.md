@@ -46,70 +46,87 @@
 <!-- ========================================================= -->
 <!-- 🛠️ TECHNICAL SKILLS                                      -->
 <!-- ========================================================= -->
-
 ## 🛠️ Tech Stack
 
-<!-- Programming languages -->
 ### 👨‍💻 Languages
 
-🐍 Python  
-🗄️ SQL
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<!-- Backend development technologies -->
 ### ⚙️ Backend & Development
 
-⚡ FastAPI  
-🔗 REST APIs  
-📦 Pydantic  
-🐧 Linux  
-🧪 Swagger / API Documentation
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
 
-<!-- Machine Learning technologies -->
 ### 📊 Data Science & Machine Learning
 
-📈 Scikit-learn  
-🐼 Pandas  
-🔢 NumPy  
-📊 Matplotlib  
-🤖 XGBoost  
-🌲 Random Forest  
-🧠 SVM, KNN, Naive Bayes  
-🔬 Feature Engineering & PCA
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SVM-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KNN-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Naive%20Bayes-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCA-7952B3?style=for-the-badge" />
+</p>
 
-<!-- Deep Learning technologies -->
 ### 🧠 Deep Learning
 
-🔥 PyTorch  
-🧠 CNN  
-🔗 ANN
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ANN-00897B?style=for-the-badge" />
+</p>
 
-<!-- Generative AI technologies -->
 ### 🤖 Generative AI
 
-🔍 RAG (Retrieval-Augmented Generation)  
-✨ Google Gemini  
-🧬 Embeddings  
-🔎 Qdrant  
-🦜 LangChain
+<p>
+  <img src="https://img.shields.io/badge/RAG-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+</p>
 
-<!-- Cloud and database technologies -->
 ### ☁️ Cloud & Databases
 
-☁️ AWS — EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch, Auto Scaling, Bedrock  
-🗄️ MySQL
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auto%20Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<!-- Development tools -->
 ### 🧰 Tools
 
-🐙 Git & GitHub  
-📓 Jupyter Notebook  
-☁️ Google Colab  
-🧪 MLflow  
-💻 VS Code  
-🐍 Anaconda  
-🌐 Streamlit
-
----
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 <!-- ========================================================= -->
 <!-- 🚀 PROJECTS                                               -->
